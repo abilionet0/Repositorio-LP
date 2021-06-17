@@ -24,4 +24,4 @@ int main(){
   int n, m;
   cin >> n >> m;
   cout << soma_vizinhos(n,m) << endl;
-}
+} 
